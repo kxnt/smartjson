@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "thumbnail_url": "https://www.backdrops.io/walls/upload/1696269716_thumb_SmartBloom.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1696269716_SmartBloom.jpg", 
+      "name": "Smart Bloom",
+      "author_name": "Backdrops",
+      "dominant_color": "#5daffb",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+    {
+      "thumbnail_url": "https://www.backdrops.io/walls/upload/1696301170_thumb_OwnTheNight.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1696301170_OwnTheNight.jpg", 
+      "name": "Own the Night",
+      "author_name": "Backdrops",
+      "dominant_color": "#09937a",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+    {
+      "thumbnail_url": "https://www.backdrops.io/walls/upload/1694716156_thumb_PassionTwist.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1694716156_PassionTwist.jpg", 
+      "name": "Passion Twist",
+      "author_name": "Backdrops",
+      "dominant_color": "#2c579c",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    }
+  ]
+}
