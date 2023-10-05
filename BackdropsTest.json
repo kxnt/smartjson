@@ -1,7 +1,7 @@
 {
   "wallpapers": [
     {
-      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_Alleviate.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_SmartBloom.jpg",
       "full_size_url": "https://www.backdrops.io/walls/upload/1696269716_SmartBloom.jpg", 
       "name": "Smart Bloom",
       "author_name": "Backdrops",
@@ -62,6 +62,78 @@
       "name": "Mac and Gleam",
       "author_name": "Backdrops",
       "dominant_color": "#0429c0",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    }
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_InfiniteWinds.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1687467274_InfiniteWinds.jpg", 
+      "name": "Infinite Winds",
+      "author_name": "Backdrops",
+      "dominant_color": "#0c548e",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_HalfTones.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1686418009_HalfTones.jpg", 
+      "name": "Half Tones",
+      "author_name": "Backdrops",
+      "dominant_color": "#1246d0",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_DuneOfPurity.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1692904171_DunePurity.jpg", 
+      "name": "Dune of Purity",
+      "author_name": "Backdrops",
+      "dominant_color": "#082454",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_TideTwist.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1674499510_TideTwist.jpg", 
+      "name": "Tide Twist",
+      "author_name": "Backdrops",
+      "dominant_color": "#d33d25",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_LucentLines.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1662573448_Lucent.jpg", 
+      "name": "Lucent Lines",
+      "author_name": "Backdrops",
+      "dominant_color": "#400a55",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_MarbleRun.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1660065327_MarbleRun.png", 
+      "name": "Marble Run",
+      "author_name": "Backdrops",
+      "dominant_color": "#1d2041",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_Mello.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1643916904_Mello.jpg", 
+      "name": "Mello",
+      "author_name": "Backdrops",
+      "dominant_color": "#12437d",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_AuraFlow.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1631562022_Aura.png", 
+      "name": "Aura Flow",
+      "author_name": "Backdrops",
+      "dominant_color": "#dd6070",
+      "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
+    },
+	{
+      "thumbnail_url": "https://raw.githubusercontent.com/kxnt/smartjson/main/Smart%20Thumbnails/Thumb_OwnTheNight.jpg",
+      "full_size_url": "https://www.backdrops.io/walls/upload/1696301170_OwnTheNight.jpg", 
+      "name": "Own the Night",
+      "author_name": "Backdrops",
+      "dominant_color": "#00836b",
       "author_profile": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers" 
     }
   ]
